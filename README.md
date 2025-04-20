@@ -1,4 +1,4 @@
 # The Rules of MicrosoftC
 
 - Only unsafe
-- No std lib (only libc/WinAPI)
+- No Standard library but Libc and WinAPI is allowed
